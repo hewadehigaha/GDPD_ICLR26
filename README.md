@@ -1,2 +1,2 @@
 # GDPD
-This the source code for ICLR 2026 submission : Generative Diffusion Prior Distillation for Long-Context Knowledge
+This is the source code for the ICML 2026 submission: Generative Diffusion Prior Distillation for Long-Context Knowledge Transfer
